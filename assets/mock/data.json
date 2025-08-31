@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Majestic",
+    "description": "Main bus station and city center hub",
+    "lat": 12.9766,
+    "lng": 77.5713
+  },
+  {
+    "id": 2,
+    "name": "Garudacharapalya",
+    "description": "Near IT park and residential area",
+    "lat": 12.9865,
+    "lng": 77.6956
+  },
+  {
+    "id": 3,
+    "name": "BTM Layout",
+    "description": "Popular stop near colleges and offices",
+    "lat": 12.9166,
+    "lng": 77.6101
+  },
+  {
+    "id": 4,
+    "name": "Whitefield",
+    "description": "Tech hub and major IT corridor",
+    "lat": 12.9698,
+    "lng": 77.7499
+  },
+  {
+    "id": 5,
+    "name": "Electronic City",
+    "description": "Large industrial and IT zone",
+    "lat": 12.8390,
+    "lng": 77.6770
+  },
+  {
+    "id": 6,
+    "name": "Hebbal",
+    "description": "Connected to airport and outer ring road",
+    "lat": 13.0358,
+    "lng": 77.5970
+  },
+  {
+    "id": 7,
+    "name": "KR Market",
+    "description": "One of the busiest market areas",
+    "lat": 12.9624,
+    "lng": 77.5760
+  },
+  {
+    "id": 8,
+    "name": "Banashankari",
+    "description": "Residential and commercial hub",
+    "lat": 12.9250,
+    "lng": 77.5468
+  }
+]
