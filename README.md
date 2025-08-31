@@ -1,16 +1,19 @@
-# evide_assignment
+# 📱 Evide Assignment
 
-A new Flutter project.
+A Flutter-based project created as an assignment.  
+This project demonstrates clean code structure, GitHub workflow with multiple commits, and Flutter development practices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Flutter project setup with structured folders
+- Responsive UI
+- GitHub version control (3 commits demo)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Installation & Setup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Clone the repository
+```bash
+git clone https://github.com/Mohd063/evide_assignment.git
